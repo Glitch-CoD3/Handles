@@ -1,11 +1,11 @@
- Codeforces      (juelrana43.5)            https://codeforces.com/profile/juelrana43.5
+(1) Codeforces      (juelrana43.5)   --> 100           https://codeforces.com/profile/juelrana43.5
 
- Codeforces      (juelrana...)             https://codeforces.com/profile/juelrana...
+(2) Codeforces      (juelrana...)     --> 86           https://codeforces.com/profile/juelrana...
 
- Codechef        (juel43)                  https://www.codechef.com/users/juel43
+(3) Codechef        (juel43)          --> 77           https://www.codechef.com/users/juel43
 
- Beecrowed       (juel43)                  https://judge.beecrowd.com/en/profile/758488
+(4) Beecrowed       (juel43)          --> 23           https://judge.beecrowd.com/en/profile/758488
 
- GeeksForGeeks   (juel43)                  https://www.geeksforgeeks.org/user/juel43/
+(5) GeeksForGeeks   (juel43)          --> 19           https://www.geeksforgeeks.org/user/juel43/
 
- LeetCode        (juelrana)                https://leetcode.com/u/juelrana/
+(6) LeetCode        (juelrana)        --> 10           https://leetcode.com/u/juelrana/
