@@ -6,9 +6,9 @@
 
 (4) Beecrowed       (juel43)          --> 23           https://judge.beecrowd.com/en/profile/758488
 
-(5) GeeksForGeeks   (juel43)          --> 19           https://www.geeksforgeeks.org/user/juel43/
+(5) GeeksForGeeks   (juel43)          --> 21           https://www.geeksforgeeks.org/user/juel43/
 
 (6) LeetCode        (juelrana)        --> 10           https://leetcode.com/u/juelrana/
 
 
-TOTAL Problem = 305
+TOTAL Problem = 317
