@@ -6,7 +6,7 @@
 
 (4) Beecrowed       (juel43)          --> 23           https://judge.beecrowd.com/en/profile/758488
 
-(5) GeeksForGeeks   (juel43)          --> 21           https://www.geeksforgeeks.org/user/juel43/
+(5) GeeksForGeeks   (juel43)          --> 29           https://www.geeksforgeeks.org/user/juel43/
 
 (6) LeetCode        (juelrana)        --> 10           https://leetcode.com/u/juelrana/
 
